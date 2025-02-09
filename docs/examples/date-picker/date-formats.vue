@@ -17,8 +17,8 @@
         v-model="value2"
         type="date"
         placeholder="Pick a Date"
-        format="YYYY/MM/DD"
-        value-format="YYYY-MM-DD"
+        format="YYYY-MM-DD"
+        value-format="YYYYMMDD"
       />
     </div>
     <div class="block">
